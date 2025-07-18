@@ -92,14 +92,6 @@ stacked_model = StackingRegressor(
     passthrough=True
 )
 
-#### Few Outputs
-<img width="1000" height="600" alt="actual_vs_predicted_pm25" src="https://github.com/user-attachments/assets/79fe354b-69cf-4d77-bfeb-0a92d3f3112a" />
-<img width="4033" height="2973" alt="Indo_Gangetic_Plain" src="https://github.com/user-attachments/assets/53ecbf73-7da5-463b-9ca7-c8316f9d8d88" />
-<img width="4033" height="2973" alt="Indo_Gangetic_Plain" src="https://github.com/user-attachments/assets/16637fee-ffc4-456e-9048-3865b1423c44" />
-<img width="3570" height="1770" alt="IIT_Delhi" src="https://github.com/user-attachments/assets/80eed628-bf64-4a4a-8451-ca38362fd43f" />
-<img width="478" height="340" alt="image" src="https://github.com/user-attachments/assets/7fff8007-4aa1-4576-a6b5-e4a04b49ec20" />
-<img width="478" height="340" alt="image" src="https://github.com/user-attachments/assets/7c2913f1-3f6b-4524-9039-b8bd2fc98f3d" />
-
 
 
 
